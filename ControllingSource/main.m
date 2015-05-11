@@ -12,6 +12,10 @@
 
 int main(int argc, char * argv[])
 {
+
+    // 1234
+    // abcd
+    
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
